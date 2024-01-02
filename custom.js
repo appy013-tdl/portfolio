@@ -1,4 +1,4 @@
-export const CUSTOM_CSS = `
+const CUSTOM_CSS = `
 /********************Hide elements*****************************/
 /*Notion top bars*/           .notion-topbar,
                               .notion-topbar-mobile,
